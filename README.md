@@ -92,4 +92,5 @@ npm run dev
 ```
 Default Admin Account (from seeder):
 Email: admin@admin.com
+
 Password: password
